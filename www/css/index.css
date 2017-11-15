@@ -1,0 +1,26 @@
+body{
+
+    margin: 0 auto;
+    background-image: url("https://images2.alphacoders.com/709/thumb-1920-709005.jpg");
+    
+}
+input[type=text]{
+    width: 80%;
+    padding: 20px 30px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+    background-color: ;
+    color: block;
+}
+input[type=button]{
+    background-color: #00FFFF;
+    border: none;
+    color: black;
+    padding: 30px 25px;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer;
+    width: 45%
+}
